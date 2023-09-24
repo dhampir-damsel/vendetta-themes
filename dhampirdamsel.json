@@ -1,0 +1,184 @@
+{
+    "name": "Dhampiric Dreams",
+    "description": "A theme made by DhampirDamsel",
+    "authors": [
+        {
+            "name": "Dhampir Damsel"
+        }
+    ],
+  "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+
+            "#9b4b68",
+            "#783a51"
+        ],
+        "HEADER_SECONDARY": [
+            "#ed7893",
+            "#ed7893"
+        ],
+        "TEXT_NORMAL": [
+            "#D6D6D6",
+            "#c8c8c8"
+        ],
+        "TEXT_MUTED": [
+            "#a96a96",
+            "#C8B68E"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ed7893",
+            "#ed7893"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#ed7893",
+            "#ed7893"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#cf89ba",
+            "#ed7893"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#704a54",
+            "#c9bbc8"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#2c242c",
+            "#2c242c"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#282237",
+            "#29272E"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#0E0D10",
+            "#0E0D10"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#121215",
+            "#121215"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#60464d",
+            "#9d1535"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#29272E",
+            "#29272E"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#2c242c",
+            "#222228"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#2c242c",
+            "#2c242c"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#2c242c",
+            "#2c242c"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#1F1F2B",
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1a1926",
+            "#1a1926"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1F1F2B",
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#2F293D",
+            "#373147"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#29272E",
+            "#29272E"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#382e38",
+            "#382e38"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#382e38",
+            "#382e38"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "1a1926",
+            "1a1926"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#a96a96",
+            "#ed7893"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#111111",
+            "#111111"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#7c535e",
+            "#a76e7c"
+        ],
+        "TEXT_LINK": [
+            "#C91C43",
+            "#C91C43"
+        ],
+        "KEYBOARD": [
+            "#2c242c",
+            "#2c242c"
+        ],
+        "CHANNEL_ICON": [
+            "#BFBFBF",
+            "#BFBFBF"
+        ]
+    },
+    "rawColors": {
+    "PRIMARY_DARK": "#872c44",
+    "PRIMARY_100": "#ed7893",
+    "PRIMARY_200": "#ed7893",
+    "PRIMARY_300": "#B6B6B6",
+    "PRIMARY_360": "#872c44",
+    "PRIMARY_400": "#a96a96",
+    "PRIMARY_500": "#ed7893",
+    "PRIMARY_600": "#2c242c",
+    "PRIMARY_630": "#2c242c",
+    "PRIMARY_660": "#111013",
+    "PRIMARY_700": "#2c242c",
+    "PRIMARY_800": "#2c242c",
+    "BRAND_260": "#9a324e",
+    "BRAND_360": "#9d1535",
+    "BRAND_500": "#b4183d",
+    "BRAND_560": "#ed7893",
+    "BRAND_900": "#872c44",
+    "BRAND_NEW": "#C91C43",
+    "YELLOW_300": "#e3355e",
+    "GREEN_360": "#ed7893",
+    "DANGER": "#b4183d",
+    "RED_400": "#C91C43"
+    },
+
+    "background": {
+        "blur": 0.5,
+        "url": "https://storage.ko-fi.com/cdn/useruploads/9bd1e48b-0222-4fcb-ba81-89ebb162405a_sep23-wp3.png",
+        "alpha": 0.7
+    },
+    "plus":{
+   "version":"0",
+   "iconpack":"rosiecord-plumpy",
+   "icons":{
+            "ic_new_pins":["#e64553"],
+            "StatusStreaming": ["#7e64fb"],
+          "StatusMobileOnline": ["#09bd63"],
+          "StatusIdle": ["#ffd401"],
+          "StatusDND": ["#ff611a"],
+          "StatusOffline": ["#015bd5"],
+          "StatusOnline": ["#09bd63"]}
+},
+    "color": "#872c44"
+}
