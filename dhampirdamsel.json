@@ -164,9 +164,9 @@
     },
 
     "background": {
-        "blur": 0.5,
+        "blur": 0.7,
         "url": "https://storage.ko-fi.com/cdn/useruploads/9bd1e48b-0222-4fcb-ba81-89ebb162405a_sep23-wp3.png",
-        "alpha": 0.1
+        "alpha": 0.9
     },
     "plus":{
    "version":"0",
