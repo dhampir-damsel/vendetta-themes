@@ -164,9 +164,9 @@
     },
 
     "background": {
-        "blur": 0.7,
-        "url": "https://storage.ko-fi.com/cdn/useruploads/9bd1e48b-0222-4fcb-ba81-89ebb162405a_sep23-wp3.png",
-        "alpha": 0.9
+        "blur": 1,
+        "url": "https://github.com/dhampir-damsel/vendetta-themes/blob/main/wallpaper_plain.png",
+        "alpha": 1
     },
     "plus":{
    "version":"0",
